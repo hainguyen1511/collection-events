@@ -1,4 +1,4 @@
-# Collection Events
+# [Collection Events](https://github.com/hainguyen1511/C-plus-plus/blob/main/Nguyen-Hai-prog3b.cpp)
 * A program to create a collection of all of the events, celebrities,
 * Fan favorites you want to participate in if you were going to the next Comic Con.
 
